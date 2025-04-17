@@ -1,4 +1,4 @@
-🧠 NeuroCalm
+###🧠 NeuroCalm
 
 **NeuroCalm** is an innovative neurotechnology solution built to enhance **mental well-being** and **boost productivity** through real-time brain analysis and intelligent neural modulation.
 
